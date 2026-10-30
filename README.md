@@ -8,9 +8,16 @@
   Building secure applications, exploring AI-powered systems, and developing software that solves real-world problems.
 </p>
 
-<p align="center">
+---
+
+## Socials
+
+<p>
   <a href="https://www.linkedin.com/in/gautam-misra-0a917b332/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gautamisra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
