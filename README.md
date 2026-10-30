@@ -49,7 +49,7 @@
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,neo4j,prisma,docker,git,github,linux" alt="Databases and Tools">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,linux" alt="Databases and Tools">
 </p>
 
 ### AI/ML & Information Retrieval
@@ -58,15 +58,4 @@
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GautamMisra&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamMisra&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
-</p>
-
----
-
-<p align="center">
-  <sub>Learning continuously. Building thoughtfully.</sub>
-</p>
