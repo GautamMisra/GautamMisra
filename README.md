@@ -1,18 +1,18 @@
-\<h1 align="center">Hey, I'm Gautam Misra 👋\</h1>
+<h1 align="center">Hey, I'm Gautam Misra 👋</h1>
 
-\<p align="center">
-&#x20; \<b>Computer Science Undergraduate | Cybersecurity | AI/ML\</b>
-\</p>
+<p align="center">
+  <b>Computer Science Undergraduate | Cybersecurity | AI/ML</b>
+</p>
 
-\<p align="center">
-&#x20; Building secure applications, exploring AI-powered systems, and developing software that solves real-world problems.
-\</p>
+<p align="center">
+  Building secure applications, exploring AI-powered systems, and developing software that solves real-world problems.
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://www.linkedin.com/in/gautam-misra-0a917b332/](https://www.linkedin.com/in/gautam-misra-0a917b332/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)" alt="LinkedIn">
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gautam-misra-0a917b332/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
@@ -104,9 +104,9 @@
 
 ---
 
-\<p align="center">
-&#x20; \<i>Learning continuously. Building thoughtfully.\</i>
-\</p>
+<p align="center">
+  <i>Learning continuously. Building thoughtfully.</i>
+</p>
 
 
 
