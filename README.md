@@ -8,9 +8,8 @@
   Building secure applications, exploring AI-powered systems, and developing software that solves real-world problems.
 </p>
 
----
 
-## Socials
+## Socials:
 
 <p>
   <a href="https://www.linkedin.com/in/gautam-misra-0a917b332/">
@@ -23,7 +22,7 @@
 
 ---
 
-## About Me
+## About Me:
 
 -  Interested in cybersecurity, threat modeling, and secure systems.
 -  Exploring AI/ML, RAG pipelines, and LLM-based applications.
@@ -31,7 +30,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stack:
 
 ### Languages
 
