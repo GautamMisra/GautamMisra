@@ -20,7 +20,7 @@
   </a>
 </p>
 
----
+
 
 ## About Me:
 
@@ -28,7 +28,7 @@
 -  Exploring AI/ML, RAG pipelines, and LLM-based applications.
 -  Interested in full-stack development and backend engineering.
 
----
+
 
 ## Tech Stack:
 
